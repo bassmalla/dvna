@@ -33,6 +33,8 @@
     "winston": "^3.0.0",
     "x-xss-protection": "^1.1.0",
     "hoek":"0.9.1",
-    "braces":"1.8.5"
+    "braces":"1.8.5",
+    "stringstream":"0.0.5"
+
   }
 }
