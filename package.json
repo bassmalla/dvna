@@ -34,6 +34,7 @@
     "x-xss-protection": "^1.1.0",
     "hoek": "0.9.1",
     "braces": "1.8.5",
-    "tunnel-agent":"0.4.3"
+    "tunnel-agent":"0.4.3",
+    "js-yaml":"3.6.1"
   }
 }
